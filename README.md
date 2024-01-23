@@ -1,2 +1,2 @@
 # jupyter-notebooks
-books of all the experiments and learnings related to data science concepts 
+Jupyter books of all the experiments and learnings related to ML concepts. 
